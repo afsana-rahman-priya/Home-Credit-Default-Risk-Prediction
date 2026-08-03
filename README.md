@@ -125,11 +125,11 @@ Additional evaluation metrics include:
 
 ### ROC Curve
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](ROC.PNG)
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](CONFUSIONMatrix.png)
 
 ---
 
